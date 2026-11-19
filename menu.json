@@ -1,18 +1,18 @@
+
 {
   "headline": "My Stremio",
   "menu": [
     {
       "label": "Stremio",
-      "icon": "play-circle-outline",
+      "icon": "movie",
       "data": {
+        "type": "pages",
         "pages": [
           {
             "items": [
               {
-                "type": "button",
                 "layout": "2,2,8,2",
                 "label": "Open Stremio Web",
-                "icon": "play-arrow",
                 "action": "link:https://miss-witch-responsibilities-either.trycloudflare.com/"
               }
             ]
