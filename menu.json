@@ -1,0 +1,23 @@
+
+{
+  "headline": "My Stremio",
+  "menu": [
+    {
+      "label": "Stremio",
+      "icon": "play-circle-outline",
+      "data": {
+        "headline": "Launch Stremio",
+        "type": "list",
+        "items": [
+          {
+            "type": "button",
+            "layout": "0,0,6,2",
+            "label": "Open Stremio Web",
+            "icon": "play-arrow",
+            "action": "link:https://miss-witch-responsibilities-either.trycloudflare.com/"
+          }
+        ]
+      }
+    }
+  ]
+}
